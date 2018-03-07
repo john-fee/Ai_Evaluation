@@ -97,3 +97,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Data
+*.mm
+*.mm.index
+*.csv
+*.pickle
+*.index
