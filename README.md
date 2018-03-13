@@ -14,4 +14,4 @@ The conda environment used can be duplicated by navigating to the root of this p
 
 in the command prompt.
 ___
-The `movie_dataset.csv` should be downloaded and placed into the root of this project directory.
+The `movie_dataset.csv` should be downloaded and placed into the \data\ folder.
