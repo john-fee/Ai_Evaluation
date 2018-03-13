@@ -10,6 +10,7 @@ ___
 The conda environment used can be duplicated by navigating to the root of this project directory and running:
 
 `conda env create -f environment.yml`
+
 `python -m spacy download en`
 
 in the command prompt.
